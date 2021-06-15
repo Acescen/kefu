@@ -14,6 +14,7 @@ tests/**/coverage/
 *.ntvs*
 *.njsproj
 *.sln
+.git
 
 
 HELP.md
